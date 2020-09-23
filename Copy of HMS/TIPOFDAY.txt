@@ -1,0 +1,4 @@
+Welcome to Hotel Management System
+We have four Classic type of Rooms, namely Single, Double, Suite, and Deluxe Suites
+We do hope you Enjoy your Stay with us
+Developer: Brown-Asakpa Oghenekevbe
